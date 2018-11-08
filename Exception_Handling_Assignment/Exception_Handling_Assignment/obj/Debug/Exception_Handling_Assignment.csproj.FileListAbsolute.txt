@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\Exception_Handling_Assignment\Exception_Handling_Assignment\bin\Debug\Exception_Handling_Assignment.exe.config
+C:\Users\Carly Lokare\source\repos\Exception_Handling_Assignment\Exception_Handling_Assignment\bin\Debug\Exception_Handling_Assignment.exe
+C:\Users\Carly Lokare\source\repos\Exception_Handling_Assignment\Exception_Handling_Assignment\bin\Debug\Exception_Handling_Assignment.pdb
+C:\Users\Carly Lokare\source\repos\Exception_Handling_Assignment\Exception_Handling_Assignment\obj\Debug\Exception_Handling_Assignment.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\Exception_Handling_Assignment\Exception_Handling_Assignment\obj\Debug\Exception_Handling_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\Exception_Handling_Assignment\Exception_Handling_Assignment\obj\Debug\Exception_Handling_Assignment.exe
+C:\Users\Carly Lokare\source\repos\Exception_Handling_Assignment\Exception_Handling_Assignment\obj\Debug\Exception_Handling_Assignment.pdb
