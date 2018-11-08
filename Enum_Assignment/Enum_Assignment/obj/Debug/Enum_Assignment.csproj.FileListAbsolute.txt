@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\Enum_Assignment\Enum_Assignment\bin\Debug\Enum_Assignment.exe.config
+C:\Users\Carly Lokare\source\repos\Enum_Assignment\Enum_Assignment\bin\Debug\Enum_Assignment.exe
+C:\Users\Carly Lokare\source\repos\Enum_Assignment\Enum_Assignment\bin\Debug\Enum_Assignment.pdb
+C:\Users\Carly Lokare\source\repos\Enum_Assignment\Enum_Assignment\obj\Debug\Enum_Assignment.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\Enum_Assignment\Enum_Assignment\obj\Debug\Enum_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\Enum_Assignment\Enum_Assignment\obj\Debug\Enum_Assignment.exe
+C:\Users\Carly Lokare\source\repos\Enum_Assignment\Enum_Assignment\obj\Debug\Enum_Assignment.pdb
