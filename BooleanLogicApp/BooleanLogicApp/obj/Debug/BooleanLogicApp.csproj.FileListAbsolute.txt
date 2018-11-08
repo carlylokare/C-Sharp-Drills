@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\BooleanLogicApp\BooleanLogicApp\bin\Debug\BooleanLogicApp.exe.config
+C:\Users\Carly Lokare\source\repos\BooleanLogicApp\BooleanLogicApp\bin\Debug\BooleanLogicApp.exe
+C:\Users\Carly Lokare\source\repos\BooleanLogicApp\BooleanLogicApp\bin\Debug\BooleanLogicApp.pdb
+C:\Users\Carly Lokare\source\repos\BooleanLogicApp\BooleanLogicApp\obj\Debug\BooleanLogicApp.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\BooleanLogicApp\BooleanLogicApp\obj\Debug\BooleanLogicApp.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\BooleanLogicApp\BooleanLogicApp\obj\Debug\BooleanLogicApp.exe
+C:\Users\Carly Lokare\source\repos\BooleanLogicApp\BooleanLogicApp\obj\Debug\BooleanLogicApp.pdb

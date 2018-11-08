@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\Interface_Assignment\Interface_Assignment\bin\Debug\Interface_Assignment.exe.config
+C:\Users\Carly Lokare\source\repos\Interface_Assignment\Interface_Assignment\bin\Debug\Interface_Assignment.exe
+C:\Users\Carly Lokare\source\repos\Interface_Assignment\Interface_Assignment\bin\Debug\Interface_Assignment.pdb
+C:\Users\Carly Lokare\source\repos\Interface_Assignment\Interface_Assignment\obj\Debug\Interface_Assignment.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\Interface_Assignment\Interface_Assignment\obj\Debug\Interface_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\Interface_Assignment\Interface_Assignment\obj\Debug\Interface_Assignment.exe
+C:\Users\Carly Lokare\source\repos\Interface_Assignment\Interface_Assignment\obj\Debug\Interface_Assignment.pdb
