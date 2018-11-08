@@ -1,0 +1,7 @@
+c:\users\carly lokare\source\repos\WelcomeScreenAccouting\WelcomeScreenAccouting\bin\Debug\WelcomeScreenAccouting.exe.config
+c:\users\carly lokare\source\repos\WelcomeScreenAccouting\WelcomeScreenAccouting\bin\Debug\WelcomeScreenAccouting.exe
+c:\users\carly lokare\source\repos\WelcomeScreenAccouting\WelcomeScreenAccouting\bin\Debug\WelcomeScreenAccouting.pdb
+c:\users\carly lokare\source\repos\WelcomeScreenAccouting\WelcomeScreenAccouting\obj\Debug\WelcomeScreenAccouting.csprojAssemblyReference.cache
+c:\users\carly lokare\source\repos\WelcomeScreenAccouting\WelcomeScreenAccouting\obj\Debug\WelcomeScreenAccouting.csproj.CoreCompileInputs.cache
+c:\users\carly lokare\source\repos\WelcomeScreenAccouting\WelcomeScreenAccouting\obj\Debug\WelcomeScreenAccouting.exe
+c:\users\carly lokare\source\repos\WelcomeScreenAccouting\WelcomeScreenAccouting\obj\Debug\WelcomeScreenAccouting.pdb
