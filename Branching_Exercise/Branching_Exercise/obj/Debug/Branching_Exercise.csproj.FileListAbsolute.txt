@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\Branching_Exercise\Branching_Exercise\bin\Debug\Branching_Exercise.exe.config
+C:\Users\Carly Lokare\source\repos\Branching_Exercise\Branching_Exercise\bin\Debug\Branching_Exercise.exe
+C:\Users\Carly Lokare\source\repos\Branching_Exercise\Branching_Exercise\bin\Debug\Branching_Exercise.pdb
+C:\Users\Carly Lokare\source\repos\Branching_Exercise\Branching_Exercise\obj\Debug\Branching_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\Branching_Exercise\Branching_Exercise\obj\Debug\Branching_Exercise.exe
+C:\Users\Carly Lokare\source\repos\Branching_Exercise\Branching_Exercise\obj\Debug\Branching_Exercise.pdb
+C:\Users\Carly Lokare\source\repos\Branching_Exercise\Branching_Exercise\obj\Debug\Branching_Exercise.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\Lambda_Expression_Assignment\Lambda_Expression_Assignment\bin\Debug\Lambda_Expression_Assignment.exe.config
+C:\Users\Carly Lokare\source\repos\Lambda_Expression_Assignment\Lambda_Expression_Assignment\bin\Debug\Lambda_Expression_Assignment.exe
+C:\Users\Carly Lokare\source\repos\Lambda_Expression_Assignment\Lambda_Expression_Assignment\bin\Debug\Lambda_Expression_Assignment.pdb
+C:\Users\Carly Lokare\source\repos\Lambda_Expression_Assignment\Lambda_Expression_Assignment\obj\Debug\Lambda_Expression_Assignment.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\Lambda_Expression_Assignment\Lambda_Expression_Assignment\obj\Debug\Lambda_Expression_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\Lambda_Expression_Assignment\Lambda_Expression_Assignment\obj\Debug\Lambda_Expression_Assignment.exe
+C:\Users\Carly Lokare\source\repos\Lambda_Expression_Assignment\Lambda_Expression_Assignment\obj\Debug\Lambda_Expression_Assignment.pdb
