@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\Inheritance_Assignment\Inheritance_Assignment\bin\Debug\Inheritance_Assignment.exe.config
+C:\Users\Carly Lokare\source\repos\Inheritance_Assignment\Inheritance_Assignment\bin\Debug\Inheritance_Assignment.exe
+C:\Users\Carly Lokare\source\repos\Inheritance_Assignment\Inheritance_Assignment\bin\Debug\Inheritance_Assignment.pdb
+C:\Users\Carly Lokare\source\repos\Inheritance_Assignment\Inheritance_Assignment\obj\Debug\Inheritance_Assignment.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\Inheritance_Assignment\Inheritance_Assignment\obj\Debug\Inheritance_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\Inheritance_Assignment\Inheritance_Assignment\obj\Debug\Inheritance_Assignment.exe
+C:\Users\Carly Lokare\source\repos\Inheritance_Assignment\Inheritance_Assignment\obj\Debug\Inheritance_Assignment.pdb
