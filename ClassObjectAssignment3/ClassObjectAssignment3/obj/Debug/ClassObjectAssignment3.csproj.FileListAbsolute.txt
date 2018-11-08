@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment3\ClassObjectAssignment3\obj\Debug\ClassObjectAssignment3.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment3\ClassObjectAssignment3\obj\Debug\ClassObjectAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment3\ClassObjectAssignment3\bin\Debug\ClassObjectAssignment3.exe.config
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment3\ClassObjectAssignment3\bin\Debug\ClassObjectAssignment3.exe
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment3\ClassObjectAssignment3\bin\Debug\ClassObjectAssignment3.pdb
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment3\ClassObjectAssignment3\obj\Debug\ClassObjectAssignment3.exe
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment3\ClassObjectAssignment3\obj\Debug\ClassObjectAssignment3.pdb
