@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\VariousMathOperations\VariousMathOperations\bin\Debug\VariousMathOperations.exe.config
+C:\Users\Carly Lokare\source\repos\VariousMathOperations\VariousMathOperations\bin\Debug\VariousMathOperations.exe
+C:\Users\Carly Lokare\source\repos\VariousMathOperations\VariousMathOperations\bin\Debug\VariousMathOperations.pdb
+C:\Users\Carly Lokare\source\repos\VariousMathOperations\VariousMathOperations\obj\Debug\VariousMathOperations.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\VariousMathOperations\VariousMathOperations\obj\Debug\VariousMathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\VariousMathOperations\VariousMathOperations\obj\Debug\VariousMathOperations.exe
+C:\Users\Carly Lokare\source\repos\VariousMathOperations\VariousMathOperations\obj\Debug\VariousMathOperations.pdb
