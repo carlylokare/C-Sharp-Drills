@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment2\ClassObjectAssignment2\obj\Debug\ClassObjectAssignment2.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment2\ClassObjectAssignment2\obj\Debug\ClassObjectAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment2\ClassObjectAssignment2\bin\Debug\ClassObjectAssignment2.exe.config
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment2\ClassObjectAssignment2\bin\Debug\ClassObjectAssignment2.exe
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment2\ClassObjectAssignment2\bin\Debug\ClassObjectAssignment2.pdb
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment2\ClassObjectAssignment2\obj\Debug\ClassObjectAssignment2.exe
+C:\Users\Carly Lokare\source\repos\ClassObjectAssignment2\ClassObjectAssignment2\obj\Debug\ClassObjectAssignment2.pdb
