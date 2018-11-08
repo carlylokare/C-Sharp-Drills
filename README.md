@@ -22,6 +22,7 @@ Overloading_Assignment: p.129
 Generics_Assingment: p.131
 Enum_Assignment: p.134
 Struct_Assignment: p.137
+Lambda_Expression_Assignment: p.140
 FileIO_Assignment: p.154
 DateTime_Assignment: p.156
 Constructor_Chain_Assignment: p.162
