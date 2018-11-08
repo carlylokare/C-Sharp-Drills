@@ -1,0 +1,7 @@
+C:\Users\Carly Lokare\source\repos\IterationsAssignment\IterationsAssignment\obj\Debug\IterationsAssignment.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\source\repos\IterationsAssignment\IterationsAssignment\obj\Debug\IterationsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\source\repos\IterationsAssignment\IterationsAssignment\bin\Debug\IterationsAssignment.exe.config
+C:\Users\Carly Lokare\source\repos\IterationsAssignment\IterationsAssignment\bin\Debug\IterationsAssignment.exe
+C:\Users\Carly Lokare\source\repos\IterationsAssignment\IterationsAssignment\bin\Debug\IterationsAssignment.pdb
+C:\Users\Carly Lokare\source\repos\IterationsAssignment\IterationsAssignment\obj\Debug\IterationsAssignment.exe
+C:\Users\Carly Lokare\source\repos\IterationsAssignment\IterationsAssignment\obj\Debug\IterationsAssignment.pdb
